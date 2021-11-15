@@ -117,6 +117,16 @@
         "hungry"
       ],
       "id": "11"
+    },
+    {
+      "name": "Bob",
+      "species": "Duck",
+      "diet": "folivore",
+      "personalityTraits": [
+        "anxious",
+        "loving"
+      ],
+      "id": "12"
     }
   ]
 }
